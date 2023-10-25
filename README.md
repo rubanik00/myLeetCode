@@ -13,5 +13,5 @@ tsc FILENAME.ts && node FILENAME.js
 
 # Links
 
-LeetCode Profile [https://leetcode.com/ruber322/]
-Roadmap [https://neetcode.io/roadmap]
+[LeetCode Profile](https://leetcode.com/ruber322/)
+[Roadmap](https://neetcode.io/roadmap)
