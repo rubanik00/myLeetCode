@@ -10,3 +10,8 @@ This repository contains solutions to various programming LeetCode tasks and ass
 cd typescript/FOLDERNAME
 tsc FILENAME.ts && node FILENAME.js
 ```
+
+# Links
+
+LeetCode Profile [https://leetcode.com/ruber322/]
+Roadmap [https://neetcode.io/roadmap]
